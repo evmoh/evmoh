@@ -11,7 +11,7 @@
 2016-2022 Mining, Crypto Trading (Bot), over 155 gpus
 2017-XXXX Streaming (Twitch, YouTube): Live, Game, Crypto, Programming content
 2022-XXXX GoLang backend dev, Python for NN, C# for game bots, JS/TS on NextJS for Frontend, PostgreSQL as DB
-2024-XXXX Working in food product company as Fullstack WebDev
+2024-2025 Working in food product company as Fullstack WebDev
 ```
 
 So nowadays i'm doing this stuff:
